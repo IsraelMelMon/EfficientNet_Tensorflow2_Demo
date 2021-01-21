@@ -2,4 +2,4 @@
 
 ## Everything is self contained in the IPYNB file.
 
-## One can change the train and test dataset with their respective images using the .xml files from ImgLabel or Maximo.
+##### One can change the train and test dataset with your own images and .xml files from ImgLabel or Maximo.
